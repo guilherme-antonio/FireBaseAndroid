@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "310852366101",
+    "firebase_url": "https://aula-dispositivos-moveis.firebaseio.com",
+    "project_id": "aula-dispositivos-moveis",
+    "storage_bucket": "aula-dispositivos-moveis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310852366101:android:09360fd2ae8ad22f",
+        "android_client_info": {
+          "package_name": "br.ifsc.edu.br.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310852366101-2flgurnqoreuip7ffkeufhctcsjus953.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.ifsc.edu.br.firebase",
+            "certificate_hash": "262d8cc40c70bb2a39655b40a84985634ff47c9d"
+          }
+        },
+        {
+          "client_id": "310852366101-dvi8o6c0395jct01r93kg7jfh626blj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0F1_kLxXpZGTibqSbisW5XC2Zv5CdFCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310852366101-dvi8o6c0395jct01r93kg7jfh626blj5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
